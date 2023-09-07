@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is a git repository hosted on the internet. The remote repository can be cloned by multiple individuals, meaning that many people can create a local repository and collaborate on the same project at the same time. Remote repositories are important to share information and code with multiple people working on the same project. Essentially, a remote repository is a version of your project that is hosted on the internet, network, or server that is accessible to all members working on the project that is used to exchange changes or progress made to the project. 
